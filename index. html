@@ -1,0 +1,144 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sabarish Pranav | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <nav>
+        <h2>SABARISH<span>.</span></h2>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section id="home" class="hero">
+    <div class="hero-content">
+        <h4>WELCOME TO MY PORTFOLIO</h4>
+        <h1>Hi, I'm <span>Sabarish Pranav</span></h1>
+        <h3>B.Tech Artificial Intelligence & Data Science</h3>
+        <p>
+            First-year student at KPR Institute of Engineering
+            and Technology, Coimbatore.
+            Interested in AI, programming and emerging technologies.
+        </p>
+        <a href="#projects" class="btn">Explore My Projects</a>
+    </div>
+</section>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>
+        I am a motivated first-year Artificial Intelligence and
+        Data Science student interested in programming,
+        artificial intelligence, data science and emerging
+        technologies. I am eager to develop practical skills
+        through projects and continuous learning.
+    </p>
+</section>
+
+<section id="skills">
+    <h2>Technical Skills</h2>
+    <div class="cards">
+        <div class="card">
+            <h3>Python</h3>
+            <p>Basic</p>
+        </div>
+        <div class="card">
+            <h3>C Programming</h3>
+            <p>Beginner</p>
+        </div>
+    </div>
+</section>
+
+<section id="projects">
+    <h2>My Projects</h2>
+
+    <div class="project">
+        <h3>Flash Flood Prediction System – SIH</h3>
+        <p>
+            Developed a concept for predicting flash floods
+            using technology and data.
+        </p>
+        <ul>
+            <li>Designed a web-based interface.</li>
+            <li>Included alert features.</li>
+            <li>Included location-based features.</li>
+        </ul>
+    </div>
+
+    <div class="project">
+        <h3>Waste to Wealth Project</h3>
+        <p>
+            Created a useful product using waste materials.
+            Focused on recycling and sustainability.
+        </p>
+    </div>
+</section>
+
+<section id="education">
+    <h2>Education</h2>
+
+    <div class="card">
+        <h3>B.Tech – AI & Data Science</h3>
+        <p>KPR Institute of Engineering and Technology</p>
+        <p>First Year | 2026–2030</p>
+        <p>Coimbatore, India</p>
+    </div>
+
+    <div class="card">
+        <h3>Higher Secondary (12th) – 2026</h3>
+        <p>Government Boys Higher Secondary School</p>
+        <p>Pallipalayam, Namakkal District</p>
+        <p>Percentage: 88.5%</p>
+    </div>
+
+    <div class="card">
+        <h3>SSLC (10th) – 2024</h3>
+        <p>Government Boys Higher Secondary School</p>
+        <p>Pallipalayam, Namakkal District</p>
+        <p>Percentage: 94.2%</p>
+    </div>
+</section>
+
+<section id="achievements">
+    <h2>Achievements</h2>
+    <div class="card">
+        <p>
+            Secured third mark in school in the 10th standard
+            with 471/500.
+        </p>
+    </div>
+</section>
+
+<section id="languages">
+    <h2>Languages</h2>
+    <p>Tamil | English</p>
+</section>
+
+<section id="contact">
+    <h2>Contact Me</h2>
+    <p>Let's connect and explore new opportunities.</p>
+    <a href="mailto:sabarishpranav2008@gmail.com" class="btn">
+        Email Me
+    </a>
+</section>
+
+<footer>
+    <p>© 2026 Sabarish Pranav | All Rights Reserved</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
